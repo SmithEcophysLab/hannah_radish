@@ -39,4 +39,5 @@ vignettes/*.pdf
 .Renviron
 
 #DS store
-.DS_Store
+*.DS_Store
+
