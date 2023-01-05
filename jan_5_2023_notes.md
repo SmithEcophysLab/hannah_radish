@@ -12,4 +12,9 @@
 		- chlorophyll content leaf
 	- scanned leaves for LMA
 	- took punches and scan for chlorophyll
-	- did chlorophyll extractions and measurements
+	- did chlorophyll extractions and measurements 
+
+- chlorophyll extraction notes
+	- plant 9 extracted in 15 ml instead of 10ml DMSO
+	- 150 uL triplicate aliquots including DMSO negative control, measured at 649 and 665nm
+	- datafiles (uncleaned) loaded
